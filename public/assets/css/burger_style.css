@@ -1,0 +1,37 @@
+h1{
+  text-align:center;
+}
+
+h2{
+  text-align:center;
+}
+
+.change-devour {
+  padding: 5px;
+  margin: 1px;
+  background: #95fa95;
+}
+
+.devoured {
+  padding: 5px;
+  margin: 1px;
+  background: #f57676;
+}
+
+.burger-icon{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.create-form{
+  text-align: center;
+}
+
+#burger{
+  width: 300px;
+  height: 10em;
+  text-align: center;
+}
