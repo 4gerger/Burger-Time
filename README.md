@@ -14,7 +14,7 @@ Please see below for the application's screenshot:
 
 Go to the following link: 
 
-
+https://hungryburgers.herokuapp.com/
 
 - Enter any burger to your fancy in the box with the placeholder "Enter a Burger you wish to eat!" and click "Order this Burger"
 - Click the burger with green tags to 'devour' the burger
