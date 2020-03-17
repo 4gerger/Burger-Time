@@ -20,7 +20,7 @@ Go to the following link:
 - Click the burger with green tags to 'devour' the burger
 - Once the burger is 'devoured' it will appear as a red tag 
 
-HAVE FUN!
+Try it out!
 
 ## Libraries and Frameworks
 
