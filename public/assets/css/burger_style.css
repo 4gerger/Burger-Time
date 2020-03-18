@@ -10,12 +10,14 @@ h2{
   padding: 5px;
   margin: 1px;
   background: #95fa95;
+  list-style-type:none;
 }
 
 .devoured {
   padding: 5px;
   margin: 1px;
   background: #f57676;
+  list-style-type:none;
 }
 
 .burger-icon{

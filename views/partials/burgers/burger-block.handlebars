@@ -1,10 +1,10 @@
 
 {{#if devoured}}
-<p class="change-devour" data-id="{{id}}" data-newdevoured="{{devoured}}">
+<li class="change-devour" data-id="{{id}}" data-newdevoured="{{devoured}}">
     {{id}}.  {{burger_name}}
-</p>
+</li>
 {{else}}
-<p class="devoured" data-id="{{id}}" data-newdevoured="{{devoured}}">
+<li class="devoured" data-id="{{id}}" data-newdevoured="{{devoured}}">
     {{id}}.  {{burger_name}}
-</p>
+</li>
 {{/if}}
